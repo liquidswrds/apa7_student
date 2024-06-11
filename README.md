@@ -79,7 +79,7 @@ These instruction assume you have some basic knowledge of markdown and Pandoc. T
 `institution:` Enter your University/College name  
 `course:` This is your course number  
 `instuctor:` Enter your professor/instructor name  
-`duedate:` Enter the date the assignment is due
+`duedate:` Enter the date the assignment is due  
 `abstract:` Enter the abstract for your paper
 
 #### Additional
